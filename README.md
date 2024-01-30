@@ -1,4 +1,4 @@
-![logo](https://github.com/Vibhuyadav0061/Vibhuyadav0061/blob/main/coding.png)
+![logo]([https://github.com/Vibhuyadav0061/Vibhuyadav0061/blob/main/coding.png](https://github.com/Vibhuyadav0061/Vibhuyadav0061/blob/main/Screenshot%202024-01-30%20215225.png))
 <h1 align="center">Hi 👋, I'm VIBHU YADAV</h1>
 <h3 align="center">Crafting Seamless User Experiences with HTML, CSS, and JavaScript</h3>
 
