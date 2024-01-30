@@ -1,4 +1,4 @@
-![logo](https://github.com/Vibhuyadav0061/Vibhuyadav0061/assets/113329071/7e688a7f-2cc8-4049-ab96-22ebd9deb79a)
+![logo](https://github.com/Vibhuyadav0061/Vibhuyadav0061/blob/main/coding.png)
 <h1 align="center">Hi 👋, I'm VIBHU YADAV</h1>
 <h3 align="center">Crafting Seamless User Experiences with HTML, CSS, and JavaScript</h3>
 
