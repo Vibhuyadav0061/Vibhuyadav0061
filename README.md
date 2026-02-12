@@ -48,7 +48,7 @@ I am an **Entry-level Full Stack Web Developer** pursuing my B.Tech in Computer 
 ### 📊 GitHub Stats
 | **Overall Stats** | **Most Used Languages** |
 | :--- | :--- |
-| ![Vibhu's Stats](https://github-readme-stats.vercel.app/api?username=vibhuyadav0061&show_icons=true&theme=dark&hide_border=true&count_private=true) | ![Vibhu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhuyadav0061&layout=compact&theme=dark&hide_border=true&langs_count=8) |
+| ![Vibhu's Stats](https://github-readme-stats.vercel.app/api?username=Vibhuyadav0061&show_icons=true&theme=dark&hide_border=true&count_private=true) | ![Vibhu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhuyadav0061&layout=compact&theme=dark&hide_border=true&langs_count=8) |
 
 ---
 
