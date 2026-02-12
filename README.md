@@ -46,22 +46,21 @@ I am an **Entry-level Full Stack Web Developer** pursuing my B.Tech in Computer 
 ---
 
 ### 📊 GitHub Stats
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=vibhuyadav0061&show_icons=true&theme=tokyonight&hide_border=true"
-        height="180"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhuyadav0061&layout=compact&theme=tokyonight&hide_border=true"
-        height="180"
-      />
-    </td>
-  </tr>
-</table>
+| **Overall Stats** | **Most Used Languages** |
+| :--- | :--- |
+| ![Vibhu's Stats](https://github-readme-stats.vercel.app/api?username=vibhuyadav0061&show_icons=true&theme=dark&hide_border=true&count_private=true) | ![Vibhu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhuyadav0061&layout=compact&theme=dark&hide_border=true&langs_count=8) |
+
+---
+
+### 🔥 Current Streak
+![Vibhu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vibhuyadav0061&theme=dark&hide_border=true)
+
+---
+
+### 🛠 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=js,py,react,nodejs,html,css,git,github,vscode)
+
+
 
 ---
 
