@@ -46,10 +46,22 @@ I am an **Entry-level Full Stack Web Developer** pursuing my B.Tech in Computer 
 ---
 
 ### 📊 GitHub Stats
-| | |
-|--|--|
-| ![Vibhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibhuyadav0061&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vibhuyadav0061&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true) |
-
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=vibhuyadav0061&show_icons=true&theme=tokyonight&hide_border=true"
+        height="180"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhuyadav0061&layout=compact&theme=tokyonight&hide_border=true"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
