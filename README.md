@@ -1,31 +1,61 @@
-<!-- ![logo](https://github.com/Vibhuyadav0061/Vibhuyadav0061/blob/main/Screenshot%202024-01-30%20215225.png) -->
-<h1 align="center">Hi 👋, I'm VIBHU YADAV</h1>
-<h3 align="center">Crafting Seamless User Experiences with HTML, CSS, and JavaScript</h3>
+# Hi there, I'm Vibhu Yadav 👋
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhuyadav0061&label=Profile%20views&color=0e75b6&style=flat" alt="vibhuyadav0061" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibhuyadav0061" alt="vibhuyadav0061" /></a> </p>
-
-- 🔭 I’m currently working on [MSGM KISHNI](https://vibhuyadav0061.github.io/msgm/)
-
-- 🌱 I’m currently learning **React.js**
-
-- 👨‍💻 All of my projects are available at [https://vibhuyadav0061.github.io/my_portfolio/](https://vibhuyadav0061.github.io/my_portfolio/)
-
-- 📫 How to reach me **vibhuyadav0061@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/15eWj5LXGVveKFOj6ECYqQnFcykky4rOK/view?usp=drivesdk](https://drive.google.com/file/d/15eWj5LXGVveKFOj6ECYqQnFcykky4rOK/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vibhu-yadav-346a95249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vibhu-yadav-346a95249" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vibhuyadav0061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vibhuyadav0061" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vibhuyadav0061&label=Profile%20views&color=0e75b6&style=flat" alt="vibhuyadav0061" />
+  <img src="https://img.shields.io/badge/B.Tech-CSE%202025-blue?style=flat&logo=education" alt="Education" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhuyadav0061&show_icons=true&locale=en&layout=compact" alt="vibhuyadav0061" /></p>
+### 🚀 About Me
+[cite_start]I am an **Entry-level Full Stack Web Developer** [cite: 4] [cite_start]pursuing my B.Tech in Computer Science & Engineering at **Ajay Kumar Garg Engineering College**. [cite_start]I specialize in building scalable web applications and have a strong foundation in Data Structures and Algorithms[cite: 26].
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhuyadav0061&show_icons=true&locale=en" alt="vibhuyadav0061" /></p>
+- 🔭 **Currently working on:** `Subh Sankalp Estate` — A Full Stack Real Estate platform.
+- 🌱 **Learning:** `ASP.NET Core Web API` to expand my backend architecture skills.
+- 👨‍💻 **Portfolio:** [vibhuyadav0061.github.io/my_portfolio](https://vibhuyadav0061.github.io/my_portfolio/)
+- [cite_start]🏆 **Achievement:** Solved **200+ DSA problems** across LeetCode, CodeChef, and HackerRank.
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | [cite_start]![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) [cite: 21] |
+| **Frontend** | [cite_start]![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) [cite: 22] |
+| **Backend** | [cite_start]![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)  |
+| **Databases** | [cite_start]![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) [cite: 24] |
+| **Tools** | [cite_start]![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) [cite: 25] |
+
+---
+
+### 🏆 Featured Projects
+
+#### 🏗️ Subh Sankalp Estate (In Progress)
+* **Type:** Full Stack Real Estate Application.
+* **Goal:** Providing a seamless interface for property listings and client management.
+
+#### 🏨 [Vibestay Hotel Review & Listing](https://github.com/Vibhuyadav0061/Vibestay)
+* [cite_start]**Tech:** Express.js, MongoDB, Passport.js, MVC Architecture[cite: 28].
+* [cite_start]**Feature:** Secure image uploads with Multer and role-based access control[cite: 31].
+
+#### 🏫 [Landing Page Website](https://vibhuyadav0061.github.io/msgm/)
+* [cite_start]**Client:** Dr. Rammanohar Lohiya Inter College[cite: 33].
+* [cite_start]**Feature:** Built with semantic HTML for enhanced SEO performance and responsiveness[cite: 37, 38].
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vibhuyadav0061&show_icons=true&theme=tokyonight" alt="Vibhu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhuyadav0061&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/vibhuyadav0061" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vibhuyadav0061" /></a>
+<a href="https://www.leetcode.com/u/vibhuyadav0061" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="vibhuyadav0061" /></a>
+<a href="mailto:vibhuyadav0061@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="vibhuyadav0061" /></a>
+</p>
